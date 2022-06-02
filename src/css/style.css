@@ -236,3 +236,7 @@
     content: '';
     background: #fff;
 }
+.logo{
+    border-radius: 48%;
+    border: 5px solid dodgerblue;
+}
